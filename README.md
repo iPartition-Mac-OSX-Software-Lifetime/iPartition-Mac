@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/818/771/png-transparent-apple-app-store-macbook-pro-itunes-apple-logo-fruit-nut-ipad.png" width="200"><br>
+<img src="https://images.dwncdn.net/images/t_app-icon-l/p/308693af-acfc-48eb-9c56-d82298130fca/2534531738/2248_4-50841-imgingest-1146133697200396620.png" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/ipartition">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
